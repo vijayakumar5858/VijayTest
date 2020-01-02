@@ -10,7 +10,7 @@ public class printHello {
 		 
 				System.out.println("jenkins Test completed ") ;
 				
-				1
+				100
 		
 		//Vijay
 				
